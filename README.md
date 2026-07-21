@@ -5,6 +5,8 @@ This section will have my short write ups on simulation events documenting my th
 <h2>LetsDefend:</h2>
 
 <a href="https://github.com/Borsch-Appreciator/EventID-89">EventID-89</a>
+</br>
+<a href="https://github.com/Borsch-Appreciator/EventID303">EventID-303</a>
 
 <h2>TryHackMe</h2>
 
